@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nltk
+spacy
+transformers
+datasets
+evaluate
+rouge-score
+gensim
+bertopic
+umap-learn
+hdbscan
+plotly
+sentence-transformers

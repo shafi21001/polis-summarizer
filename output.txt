@@ -1,0 +1,4 @@
+Processed lines:
+I love Python.
+Jupyter is great.
+Let's automate stuff!
